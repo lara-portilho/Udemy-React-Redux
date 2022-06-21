@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Udemy - Curso React + Redux</h1>
-  <p><i>Repositório utilizado para abranger os projetos do curso React + Redux</i></p>
+  <p><i>Repositório utilizado para abranger os projetos do curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!</i></p>
 </div>
 
 ## Sumário
