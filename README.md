@@ -10,7 +10,7 @@
 
 ## Informações Gerais
 
-Este é um repositório no qual serão abrangidos os projetos realizados durante o curso [Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/share/101qNE3@Ap0SdNMOp1gfi_JHYq14GClWqvwVEiBWInZlQdF8xLzXbXje61XWSeDdudHYTIc8yA==/), por Leonardo Moura Leitao
+Este é um repositório no qual estão abrangidos os projetos realizados durante o curso [Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/share/101qNE3@Ap0SdNMOp1gfi_JHYq14GClWqvwVEiBWInZlQdF8xLzXbXje61XWSeDdudHYTIc8yA==/), por Leonardo Moura Leitao
 
 
 ## Tecnologias
