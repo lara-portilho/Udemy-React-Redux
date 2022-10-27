@@ -1,0 +1,28 @@
+.button {
+  font-size: 1.4rem;
+  border: none;
+  outline: none;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.5px #909090;
+  cursor: pointer;
+}
+
+.button:active {
+  opacity: 0.6;
+}
+
+.button.operation {
+  background-color: #de700f;
+  color: white;
+}
+
+.button.double-column {
+  grid-column: span 2;
+}
+
+.button.triple-column {
+  grid-column: span 3;
+}
